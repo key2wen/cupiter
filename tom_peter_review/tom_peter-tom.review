@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Review id="tom_peter">
+  <ReviewIssue id="I09HXNBJ">
+    <ReviewIssueMeta>
+      <CreationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2014-09-19 :: 20:21:12:655 CST</CreationDate>
+      <LastModificationDate format="yyyy-MM-dd :: HH:mm:ss:SSS z">2014-09-19 :: 20:21:45:925 CST</LastModificationDate>
+    </ReviewIssueMeta>
+    <ReviewerId>tom</ReviewerId>
+    <AssignedTo>tom</AssignedTo>
+    <File line="7">src/com/git/HelloGit.java</File>
+    <Type>item.type.label.optimization</Type>
+    <Severity>item.severity.label.normal</Severity>
+    <Summary>多余</Summary>
+    <Description>System.out.println("jajajajaj");多余</Description>
+    <Annotation></Annotation>
+    <Revision></Revision>
+    <Resolution>item.label.unset</Resolution>
+    <Status>item.status.label.open</Status>
+  </ReviewIssue>
+</Review>
